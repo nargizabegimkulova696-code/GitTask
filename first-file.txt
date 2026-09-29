@@ -1,2 +1,2 @@
 hello from first file
-hello world
+hello people
